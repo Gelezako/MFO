@@ -7,7 +7,9 @@
   "formation": {
   },
   "addons": [
-
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-php"
+    }
   ],
   "buildpacks": [
 
