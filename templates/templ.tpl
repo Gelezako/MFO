@@ -94,7 +94,7 @@
                             <!-- End List -->
                         </div>
                         <div class="col-sm-5 sm-margin-b-30">
-                            <form action="index2.php" method="post">
+                            <form action="index.php" method="post">
                             <h2 class="color-white">Поиск банка по МФО</h2>
 
                                 <select name="bank" class="form-control footer-input margin-b-20">
