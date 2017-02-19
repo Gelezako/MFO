@@ -83,4 +83,6 @@ $smarty->cache_dir='cache';
      $smarty->display('templ.tpl');
 
 $i++;
+
+<?php include_once("analyticstracking.php") ?>
 ?>
