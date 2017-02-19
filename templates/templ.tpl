@@ -119,7 +119,7 @@
                             <h2 class="color-white">Поиск банка по МФО</h2>
 
                                 <select name="bank" class="form-control footer-input margin-b-20">
-                                <option disabled selected="selected"> - Выберите банк (обязательно) -</option>
+                                <option disabled selected="selected"> - Выберите банк - </option>
                                 <option value="приватбанк">ПриватБанк</option>
                                 <option value="уксоцбанк">УксоцБанк</option>
                                 <option value="ощадбанк">Ощадбанк</option>
