@@ -98,15 +98,7 @@
                         <div class="col-sm-4 sm-margin-b-30">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- mfo -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
-     data-ad-client="ca-pub-0757573180992162"
-     data-ad-slot="9112710100"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>   
+                            <a rel="nofollow" href="http://rdr.salesdoubler.com.ua/in/offer/1198?aid=853&source=mfo"><img src="//s3.amazonaws.com/salesdoubler/banner_creatives/banners/41218/original.gif?1472842025"/></a>
                             </ul>
                             <!-- End List -->
                             
