@@ -78,6 +78,13 @@
                         <div class="col-sm-2 sm-margin-b-50">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.vietnam.pp.ua/">Вьетнам</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.thailand-photo.pp.ua/">Таиланд</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.cambodia.pp.ua/">Камбоджа</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.sri-lanka.pp.ua/">Шри-Ланка</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.laos.pp.ua/">Лаос</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.indonesia.pp.ua/">Индонезия</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.malaysia.pp.ua/">Малайзия</a></li>  
                                 <li class="footer-list-item"><a class="footer-list-link" href="http://www.uzbekistan-foto.pp.ua/">Узбекистан</a></li>
                                 <li class="footer-list-item"><a class="footer-list-link" href="http://www.jordan-foto.pp.ua/">Иордания</a></li>
                                 <li class="footer-list-item"><a class="footer-list-link" href="http://georgia.pp.ua/">Грузия</a></li>
@@ -91,17 +98,6 @@
                         <div class="col-sm-4 sm-margin-b-30">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.vietnam.pp.ua/">Вьетнам</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.thailand-photo.pp.ua/">Таиланд</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.cambodia.pp.ua/">Камбоджа</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.sri-lanka.pp.ua/">Шри-Ланка</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.laos.pp.ua/">Лаос</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.indonesia.pp.ua/">Индонезия</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.malaysia.pp.ua/">Малайзия</a></li>
-                                                             
-                            </ul>
-                            <!-- End List -->
-                            
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- mfo -->
 <ins class="adsbygoogle"
@@ -110,7 +106,11 @@
      data-ad-slot="9112710100"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script>   
+                            </ul>
+                            <!-- End List -->
+                            
+
                             
                             
                         </div>
