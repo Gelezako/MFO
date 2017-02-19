@@ -99,8 +99,7 @@
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
                             <a rel="nofollow" href="http://rdr.salesdoubler.com.ua/in/offer/250?aid=853&source=mfo"><img src="//s3.amazonaws.com/salesdoubler/banner_creatives/banners/44914/original.gif?1477064026"/></a><br><br>
-                            <a rel="nofollow" href="http://rdr.salesdoubler.com.ua/in/offer/1198?aid=853&source=mfo"><img src="//s3.amazonaws.com/salesdoubler/banner_creatives/banners/41218/original.gif?1472842025"/></a><br><br>
-                            <?php include_once("analyticstracking.php") ?>
+                            <a rel="nofollow" href="http://rdr.salesdoubler.com.ua/in/offer/1198?aid=853&source=mfo"><img src="//s3.amazonaws.com/salesdoubler/banner_creatives/banners/41218/original.gif?1472842025"/></a>
                             </ul>
                             <!-- End List -->
                             
