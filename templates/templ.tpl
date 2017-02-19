@@ -110,9 +110,8 @@
                         <div class="col-sm-5 sm-margin-b-30">
                             <form action="index.php" method="post">
                             <h2 class="color-white">Поиск банка по МФО</h2>
-                                <input class="form-control footer-input margin-b-20" type="text" name="bank" id="bank_name" list="bank_list">
+                                <input class="form-control footer-input margin-b-20" type="text" name="bank" id="bank_name" list="bank_list" placeholder="Введите название банка или город">
                                 <datalist id="bank_list">
-                                <option disabled selected="selected"> - Выберите банк - </option>
                                 <option value="приватбанк">ПриватБанк</option>
                                 <option value="уксоцбанк">УксоцБанк</option>
                                 <option value="ощадбанк">Ощадбанк</option>
