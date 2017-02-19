@@ -55,8 +55,8 @@
                     <div class="collapse navbar-collapse nav-collapse">
                         <div class="menu-container">
                             <ul class="navbar-nav navbar-nav-right">
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover active" href="index.html">Узнать МФО</a></li>
-                                <li class="nav-item"><a class="nav-item-child nav-item-hover" href="#">Контакты</a></li>
+                                <li class="nav-item"><a title="Главная" class="nav-item-child nav-item-hover active" href="http://mfo.gelezako.com">Узнать МФО</a></li>
+                                <li class="nav-item"><a title="Как пользоваться сервисом" class="nav-item-child nav-item-hover" href="http://mfo.gelezako.com/help.html">Помощь</a></li>
                             </ul>
                         </div>
                     </div>
@@ -78,20 +78,41 @@
                         <div class="col-sm-2 sm-margin-b-50">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Home</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">About</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.uzbekistan-foto.pp.ua/">Узбекистан</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.jordan-foto.pp.ua/">Иордания</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://georgia.pp.ua/">Грузия</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.turkey-foto.pp.ua/">Турция</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://india-photo.pp.ua/">Индия</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.ukraine.pp.ua/">Украина</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://kazan.pp.ua/">Казань</a></li> 
                             </ul>
                             <!-- End List -->
                         </div>
                         <div class="col-sm-4 sm-margin-b-30">
                             <!-- List -->
                             <ul class="list-unstyled footer-list">
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Twitter</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Facebook</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">Instagram</a></li>
-                                <li class="footer-list-item"><a class="footer-list-link" href="#">YouTube</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.vietnam.pp.ua/">Вьетнам</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.thailand-photo.pp.ua/">Таиланд</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.cambodia.pp.ua/">Камбоджа</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.sri-lanka.pp.ua/">Шри-Ланка</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.laos.pp.ua/">Лаос</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.indonesia.pp.ua/">Индонезия</a></li>
+                                <li class="footer-list-item"><a class="footer-list-link" href="http://www.malaysia.pp.ua/">Малайзия</a></li>
+                                                             
                             </ul>
                             <!-- End List -->
+                            
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mfo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0757573180992162"
+     data-ad-slot="9112710100"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                            
+                            
                         </div>
                         <div class="col-sm-5 sm-margin-b-30">
                             <form action="index.php" method="post">
@@ -141,7 +162,7 @@
 {/foreach}
 </textarea>
 
-                            <button type="submit" class="btn-theme btn-theme-sm btn-base-bg text-uppercase">Submit</button>
+                            <button type="submit" class="btn-theme btn-theme-sm btn-base-bg text-uppercase">Узнать</button>
                             </form>
                         </div>
                     </div>
