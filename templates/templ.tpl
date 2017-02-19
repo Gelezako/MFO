@@ -110,8 +110,8 @@
                         <div class="col-sm-5 sm-margin-b-30">
                             <form action="index.php" method="post">
                             <h2 class="color-white">Поиск банка по МФО</h2>
-
-                                <select name="bank" class="form-control footer-input margin-b-20">
+                                <input class="form-control footer-input margin-b-20" type="text" name="bank" id="bank_name" list="bank_list">
+                                <datalist id="bank_list">
                                 <option disabled selected="selected"> - Выберите банк - </option>
                                 <option value="приватбанк">ПриватБанк</option>
                                 <option value="уксоцбанк">УксоцБанк</option>
@@ -148,7 +148,32 @@
                                 <option value="ТОРЖОКУНИВЕРСАЛБ">ТОРЖОКУНИВЕРСАЛБАНК</option>
                                 <option value="ОРБИТА">ОРБИТА</option>
                                 <option value="ЕКАТЕРИНИНСКИЙ">ЕКАТЕРИНИНСКИЙ</option>
-                            </select>
+                                <option value="ФЛОРА-МОСКВА">ФЛОРА-МОСКВА</option>
+                                <option value="БАНК МОСКВЫ">БАНК МОСКВЫ</option>
+                                <option value="ЕВРОАЛЬЯНС">ЕВРОАЛЬЯНС</option>
+                                <option value="ИНТЕХБАНК">ИНТЕХБАНК</option>
+                                <option value="НОМОС-РЕГИОБАН">НОМОС-РЕГИОБАН</option>
+                                <option value="ЕВРОФИНАНС МОСНАРБАНК">ЕВРОФИНАНС МОСНАРБАНК</option>
+                                <option value="ОГНИ МОСКВЫ">ОГНИ МОСКВЫ</option>
+                                <option value="ГАЗЭНЕРГОБАНК">ГАЗЭНЕРГОБАНК</option>
+                                <option value="СИБРЕГИОНБАНК">СИБРЕГИОНБАНК</option>
+                                <option value="МОСПРОМ">МОСПРОМ</option>
+                                <option value="МОСКЛИРИНГЦЕНТР">МОСКЛИРИНГЦЕНТР</option>
+                                <option value="РУСЬРЕГИОНБАНК">РУСЬРЕГИОНБАНК</option>
+                                <option value="ТВЕРЬУНИВЕРСАЛБАН">ТВЕРЬУНИВЕРСАЛБАН</option>
+                                <option value="МЕГА БАНК">МЕГА БАНК</option>
+                                <option value="КАПИТАЛ-МОСКВА">КАПИТАЛ-МОСКВА</option>
+                                <option value="СКБ-БАНК">СКБ-БАНК</option>
+                                <option value="ВЛАДПРОМБАНК">ВЛАДПРОМБАНК</option>
+                                <option value="МОСКОВСКИЙ КАПИТАЛ">МОСКОВСКИЙ КАПИТАЛ</option>
+                                <option value="ВЯТКА-БАНК">ВЯТКА-БАНК</option>
+                                <option value="МАКСВЕЛЛ БАНК">МАКСВЕЛЛ БАНК</option>
+                                <option value="БАНК БРОКЕР">БАНК БРОКЕР</option>
+                                <option value="ПЛЮС БАНК">ПЛЮС БАНК</option>
+                                <option value="КРАЙНИЙ СЕВЕР">КРАЙНИЙ СЕВЕР</option>
+                                <option value="МИНЕРАЛОВОДСКИ">МИНЕРАЛОВОДСКИ</option>
+                                
+                            </datalist>
                             
                             <p class="color-white">ИЛИ</p>
                             <input type="text" name="mfo" class="form-control footer-input margin-b-20" placeholder="Введите МФО">
